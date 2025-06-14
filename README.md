@@ -34,10 +34,8 @@ A beautifully styled and interactive To-Do List application built with **React**
    cd CelebalTech_Assign2
 
 
-2. **Install dependencies**
+2. **Install dependencies &  Run Locally**
   ```bash
   npm install
-
-3. **Run app Locally**
-   ```bash
-   npm run dev
+  npm run dev
+   
