@@ -35,10 +35,10 @@ A beautifully styled and interactive To-Do List application built with **React**
 
 2. **Install dependencies
 
-```bash
+  ```bash
    npm install
 
-3. **Run the app locally
+3. **Run the app locally**
 
 ```bash
    npm run dev
