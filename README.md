@@ -33,7 +33,7 @@ A beautifully styled and interactive To-Do List application built with **React**
    git clone https://github.com/ayushkumar1991/CelebalTech_Assign2.git
    cd CelebalTech_Assign2
 
-2. **Install dependencies
+2. **Install dependencies**
 
   ```bash
    npm install
