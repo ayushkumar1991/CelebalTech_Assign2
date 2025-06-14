@@ -1,12 +1,44 @@
-# React + Vite
+# 📝 React To-Do List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautifully styled and interactive To-Do List application built with **React**. The app supports task creation, filtering, sorting, and persistent local storage — all within a sleek, animated UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+- ✅ Add, complete, and delete tasks
+- 🔍 Filter by: All, Active, Completed
+- ↕️ Sort by: A-Z, Z-A, Newest
+- 💾 Tasks saved in browser (localStorage)
+- 🎨 Gradient animated background
+- 🎯 Priority labels and due dates (optional)
+- ✨ Smooth UI animations
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+
+## 🛠️ Tech Stack
+
+- React (Vite)
+- CSS (Custom Styling)
+- Local Storage API
+- JSX + Modern JavaScript
+
+---
+
+## 📦 Installation
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/ayushkumar1991/CelebalTech_Assign2.git
+   cd CelebalTech_Assign2
+
+2. **Install dependencies
+
+```bash
+   npm install
+
+3. **Run the app locally
+
+```bash
+   npm run dev
