@@ -40,5 +40,5 @@ A beautifully styled and interactive To-Do List application built with **React**
 
 3. **Run the app locally**
 
-```bash
+   ```bash
    npm run dev
